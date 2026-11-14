@@ -1,0 +1,1 @@
+Add Pytest coverage for clean invoices, each anomaly, missing/overlapping rate cards, date boundaries, duplicate lines, arithmetic rounding and credit-note limits. Use a dedicated test database for integration tests.
